@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Samples</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Аннотации на карте</string>
+			<key>Subtitle</key>
+			<string>Простое добавление аннотаций на карту</string>
+			<key>ViewControllerClass</key>
+			<string>AnnotationsViewController</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Нестандартный балун</string>
+			<key>Subtitle</key>
+			<string>Гибкую настройку балуна аннотации</string>
+			<key>ViewControllerClass</key>
+			<string>CustomCalloutViewController</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Нестандартная аннотация</string>
+			<key>Subtitle</key>
+			<string>Настройка отображения аннотации на карте путём изменения её свойства image</string>
+			<key>ViewControllerClass</key>
+			<string>CustomAnnotationViewController</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Передвигаемая аннотация</string>
+			<key>Subtitle</key>
+			<string>Возможность перетаскивания добавленной аннотации по карте</string>
+			<key>ViewControllerClass</key>
+			<string>DraggableAnnotationViewController</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Отображение пробок</string>
+			<key>Subtitle</key>
+			<string>Демонстрирует показ пробок на карте и информера баллов пробок</string>
+			<key>ViewControllerClass</key>
+			<string>TrafficViewController</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Настройка слоёв карты</string>
+			<key>Subtitle</key>
+			<string>Выбор активного слоя на карте — Схема, Гибрид, Народная</string>
+			<key>ViewControllerClass</key>
+			<string>MapLayersViewController</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Экранные кнопки</string>
+			<key>Subtitle</key>
+			<string>Показ кнопок зуммирования и найти меня</string>
+			<key>ViewControllerClass</key>
+			<string>OnScreenButtonsViewController</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>mapViewVisibleRect:</string>
+			<key>Subtitle</key>
+			<string>Пример работы с mapViewVisibleRect:</string>
+			<key>ViewControllerClass</key>
+			<string>VisibleRectExampleViewController</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>YMKMapImageBuilder</string>
+			<key>Subtitle</key>
+			<string>Пример работы с YMKMapImageBuilder</string>
+			<key>ViewControllerClass</key>
+			<string>StaticMapExampleViewController</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Двигающиеся аннотации</string>
+			<key>Subtitle</key>
+			<string>Пример работы с аннотациями, которые автоматически передвигаются по карте</string>
+			<key>ViewControllerClass</key>
+			<string>YMKSMovingAnnotationsViewController</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+.DS_Store
+*/Release
+*.o
+build
+docs
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.tm_build_errors
+*.perspectivev3
+xcuserdata
+.idea
+Pods
+Podfile.lock
